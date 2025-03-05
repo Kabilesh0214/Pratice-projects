@@ -1,0 +1,30 @@
+body{
+  color:white;
+  background-color: black;
+  font-family: Arial;
+}
+.display{
+  color: white;
+  font-size:45px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+button{
+  border:none;
+  color: white;
+  height:60px;
+  width: 60px;
+  border-radius: 100px;
+  margin-right: 5px;
+  cursor: pointer;
+  font-size: 26px;
+}
+.number{
+  background-color: rgb(51,51,51);
+}
+.clear{
+  font-size: 15px;
+}
+.symbol{
+  background-color: orange;
+}
